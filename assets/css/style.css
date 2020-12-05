@@ -1,5 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
+    background-image: url("assets/images/background-image.png");
+    background-size: cover;
 }
 
 h1, .navbar-brand {
@@ -24,4 +26,8 @@ h1, .navbar-brand {
 
 .navbar-light .navbar-brand:hover{
     color: #FFFFFF;
+}
+
+.container {
+    margin-top: 100px;
 }
