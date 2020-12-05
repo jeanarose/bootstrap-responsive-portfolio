@@ -31,3 +31,7 @@ h1, .navbar-brand {
 .container {
     margin-top: 100px;
 }
+
+.main-content {
+    background: white;
+}
