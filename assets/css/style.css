@@ -6,10 +6,15 @@ h1, .navbar-brand {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+.navbar-brand, #navbarNav {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
 .navbar-brand {
     background-color: #4AAAA5;
-    font-weight: bold;
-    font-size: 20px;
+    font-weight: 400;
+    font-size: 25px;
     letter-spacing: 1px;
 }
 
