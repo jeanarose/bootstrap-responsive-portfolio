@@ -1,7 +1,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    background-image: url("assets/images/background-image.png");
-    background-size: cover;
+    background-image: url("/Users/ChadMathis/GT_Bootcamp/gt-ft/homework/my-portfolio/assets/images/background-image.png");
+    background-size: repeat;
 }
 
 h1, .navbar-brand {
