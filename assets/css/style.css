@@ -42,7 +42,8 @@ p {
 
 .main-content {
     background: white;
-    margin-bottom: 50px;
+    padding: 30px;
+    margin-bottom: 100px;
 }
 
 .about-me-img {
