@@ -1,6 +1,6 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    background-image: url("/Users/ChadMathis/GT_Bootcamp/gt-ft/homework/my-portfolio/assets/images/background-image.png");
+    background-image: url("../images/background-image.png");
     background-size: repeat;
 }
 
