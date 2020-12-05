@@ -43,6 +43,7 @@ p {
 .main-content {
     background: white;
     padding: 40px;
+    margin-bottom: 100px;
 }
 
 .about-me-img {
