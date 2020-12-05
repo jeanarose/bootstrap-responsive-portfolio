@@ -17,6 +17,10 @@ p {
     padding-bottom: 40px;
 }
 
+ul {
+    text-align: right;
+}
+
 .navbar-brand, #navbarNav {
     margin-left: 20px;
     margin-right: 20px;
