@@ -4,6 +4,7 @@ body {
 
 h1, .navbar-brand {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
 }
 
 .navbar-brand, #navbarNav {
@@ -13,7 +14,6 @@ h1, .navbar-brand {
 
 .navbar-brand {
     background-color: #4AAAA5;
-    font-weight: 400;
     font-size: 25px;
     letter-spacing: 1px;
 }
