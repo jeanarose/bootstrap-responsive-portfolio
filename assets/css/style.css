@@ -56,6 +56,10 @@ p {
     padding: 20px 40px;
 }
 
+.form {
+    padding-left: 20px;
+}
+
 .form-control {
     border-radius: 0;
 }
