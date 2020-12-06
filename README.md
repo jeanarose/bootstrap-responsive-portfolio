@@ -2,13 +2,18 @@
 [![GitHub issues](https://img.shields.io/github/issues/jeanarose/my-portfolio)](https://github.com/jeanarose/my-portfolio/issues)
 
 ## Description 
-My Portfolio is a webpage introducing the user to Jeana Rose Mathis and showcasing her software development work. My Portfolio was designed to be a responsive webpage using primarily Bootstrap. Several components were used to make this webpage responsive and follow best coding practices such as:
-- Use of the Bootstrap grid system
+[My Portfolio](https://jeanarose.github.io/my-portfolio/) is a webpage introducing the user to Jeana Rose Mathis and showcasing her software development work. My Portfolio was designed to be a responsive webpage using primarily Bootstrap. Several components were used to make this webpage responsive and follow best coding practices such as:
+- Use of the Bootstrap grid system to optimize responsiveness, specifically a collapsible navigation bar and defined breakpoints for best visuals at each screen size
+- A consistent navigation bar across all webpages 
 - Semantic HTML elements
+- A sticky footer
 - Comments to break-up sections for future software developers to understand the code better
+- CSS organized by specificty
+- An HTML validation service to ensure best HTML practices
+
+During the development of this website, the value of the grid system was evident and utilized throughout. 
 
 View the deployed application here: https://jeanarose.github.io/my-portfolio/
-
 
 ## My Portfolio
 
@@ -26,8 +31,11 @@ View the deployed application here: https://jeanarose.github.io/my-portfolio/
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
+1. Go to the [GitHub repository for My Portfolio](https://github.com/jeanarose/my-portfolio).
+2. Click the green **Code** button.
+3. Copy the SSH key.
+4. In your terminal, go into the directory that you want to host My Portfolio. 
+5. Use the command **git clone [insert SSH key URL]** and click **Enter** (Requires Git).
 
 ## Usage 
 
@@ -71,10 +79,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Features
-
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
 
 ## Tests
 
