@@ -71,6 +71,9 @@ ul {
 
 .portfolio-image {
     padding-top: 30px;
+    height: 350px;
+    width: 350px;
+    object-fit: cover;
 }
 
 .page-footer {
