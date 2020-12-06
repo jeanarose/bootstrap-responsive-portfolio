@@ -31,13 +31,13 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
+My Portfolio can be used to view Jeana Rose's work by clicking on each image that showcases her work under the Portfolio page (see [here](https://jeanarose.github.io/my-portfolio/portfolio.html)).
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![Screenshot of portfolio page with images that showcase Jeana Rose's work.](./assets/images/portfolio-page-screenshot.png)
 
-```md
-![alt text](assets/images/screenshot.png)
-```
+Use the social media links in the top right corner to view Jeana Rose's LinkedIn and Codepen profiles.
+
+![Screenshot of social media links on webpage.](./assets/images/social-media-links.png)
 
 
 ## Credits
