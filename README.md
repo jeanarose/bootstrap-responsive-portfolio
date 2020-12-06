@@ -45,7 +45,7 @@ My Portfolio can be used to view Jeana Rose's work by clicking on each image tha
 
 Use the social media links in the top right corner to view Jeana Rose's LinkedIn and Codepen profiles.
 
-![Screenshot of social media links on webpage.](./assets/images/social-media-links.png)
+![Screenshot of social media links on webpage.](./assets/images/social-media.png)
 
 
 ## Credits
