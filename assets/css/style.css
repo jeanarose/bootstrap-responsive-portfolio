@@ -40,16 +40,6 @@ ul {
     color: #FFFFFF;
 }
 
-.social-media {
-    color: #4AAAA5;
-    padding-right: .5rem;
-    padding-left: .5rem;
-}
-
-.social-media:hover {
-    color: #357b77;
-}
-
 .container {
     margin-top: 80px;
 }
