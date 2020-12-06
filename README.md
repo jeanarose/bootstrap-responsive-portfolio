@@ -1,1 +1,88 @@
-# bootstrap-responsive-portfolio
+# My Portfolio
+[![GitHub issues](https://img.shields.io/github/issues/jeanarose/my-portfolio)](https://github.com/jeanarose/my-portfolio/issues)
+
+## Description 
+My Portfolio is a webpage introducing the user to Jeana Rose Mathis and showcasing her software development work. My Portfolio was designed to be a responsive webpage using primarily Bootstrap. Several components were used to make this webpage responsive and follow best coding practices such as:
+- Use of the Bootstrap grid system
+- Semantic HTML elements
+- Comments to break-up sections for future software developers to understand the code better
+
+View the deployed application here: https://jeanarose.github.io/my-portfolio/
+
+
+## My Portfolio
+
+![Screenshot of My Portfolio webpage.](assets/images/my-portfolio-screenshot.png)
+
+
+## Table of Contents 
+
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Tests](#tests)
+
+
+## Installation
+
+What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+
+
+## Usage 
+
+Provide instructions and examples for use. Include screenshots as needed. 
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+```md
+![alt text](assets/images/screenshot.png)
+```
+
+
+## Credits
+
+- [Stack Overflow (Zi Gang) - Code to float 'ul's in navbar right](https://stackoverflow.com/questions/48698692/bootstrap-float-navbar-items-to-the-right)
+- [Stack Overflow (Zim) - Code to change navbar-brand color](https://stackoverflow.com/questions/48716874/boostrap-navbar-how-to-change-text-color-on-navbar-brand-class)
+- [MDBootstrap - Code for footer](https://mdbootstrap.com/docs/jquery/navigation/footer/)
+- [W3Schools - Code to make footer sticky](https://www.w3schools.com/howto/howto_css_fixed_footer.asp)
+
+
+## License
+
+MIT License
+
+Copyright (c) [2020] [Jeana Rose Mathis]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Features
+
+If your project has a lot of features, consider adding a heading called "Features" and listing them there.
+
+## Tests
+
+Interested in testing My Portfolio? Check the following:
+- Links are functioning properly
+- Social media links open in new tab
+- All webpages are responsive
+
+---
+
+© 2020 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
