@@ -41,7 +41,7 @@ View the deployed application here: https://jeanarose.github.io/my-portfolio/
 
 My Portfolio can be used to view Jeana Rose's work by clicking on each image that showcases her work under the Portfolio page (see [here](https://jeanarose.github.io/my-portfolio/portfolio.html)).
 
-![Screenshot of portfolio page with images that showcase Jeana Rose's work.](./assets/images/portfolio-page-screenshot.png)
+![Screenshot of portfolio page with images that showcase Jeana Rose's work.](./assets/images/portfolio.png)
 
 Use the social media links in the top right corner to view Jeana Rose's LinkedIn, GitHub, and Codepen profiles.
 
