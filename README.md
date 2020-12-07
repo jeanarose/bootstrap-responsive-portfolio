@@ -17,7 +17,7 @@ View the deployed application here: https://jeanarose.github.io/my-portfolio/
 
 ## My Portfolio
 
-![Screenshot of My Portfolio webpage.](assets/images/my-portfolio-screenshot.png)
+![Screenshot of My Portfolio webpage.](assets/images/my-portfolio.png)
 
 
 ## Table of Contents 
