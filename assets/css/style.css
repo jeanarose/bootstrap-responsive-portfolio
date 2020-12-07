@@ -1,8 +1,12 @@
+/* General */
+
 body {
     font-family: 'Open Sans', sans-serif;
     background-image: url("../images/background-image.png");
     background-size: repeat;
 }
+
+/* Headers */
 
 h1, .navbar-brand {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -13,13 +17,13 @@ h1 {
     color: #4AAAA5;
 }
 
+/* Paragraphs */
+
 p {
     padding-bottom: 40px;
 }
 
-ul {
-    text-align: right;
-}
+/* Navbar */
 
 .navbar-brand, #navbarNav {
     margin-left: 20px;
@@ -57,15 +61,23 @@ ul {
     margin-top: 80px;
 }
 
+/* Main Content */
+
 .main-content {
     background: white;
     padding: 30px;
     margin-bottom: 100px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
+
+/* About Me Image */
 
 .about-me-img {
     padding-right: 20px;
 }
+
+/* Submit Button */
 
 .btn {
     background-color: #4AAAA5;
@@ -73,6 +85,8 @@ ul {
     border-radius: 0;
     padding: 20px 40px;
 }
+
+/* Form */
 
 .form {
     padding-left: 20px;
@@ -82,12 +96,16 @@ ul {
     border-radius: 0;
 }
 
+/* Portfolio Images */
+
 .portfolio-image {
     padding-top: 30px;
     height: 350px;
     width: 350px;
     object-fit: cover;
 }
+
+/* Footer */
 
 .page-footer {
     background-color: rgb(102,102,102);
@@ -101,16 +119,6 @@ ul {
 
 .footer-copyright {
     color: #6B737A;
-}
-
-/*
-  These rules take effect when the browser's width
-  is either 1200px or more.
-*/
-@media screen and (min-width: 1200px) {
-    .about-me-img {
-      padding-bottom: 20px;
-    }
 }
 
 /* 
