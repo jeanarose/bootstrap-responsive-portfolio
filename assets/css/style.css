@@ -52,10 +52,6 @@ p {
     text-align: right;
 }
 
-/* .social-media {
-    margin-right: -5px;
-} */
-
 .list-inline-item {
     padding-left: 5px;
     padding-right: 5px;
@@ -136,3 +132,14 @@ p {
       display: none;
     }
 }
+
+/* 
+    These rules take effect when the browser's width 
+    is 991px or less
+ */
+
+ @media screen and (max-width: 991px) {
+    .social-media {
+        padding-top: 1rem;
+    }
+ }
