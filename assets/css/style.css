@@ -141,5 +141,6 @@ p {
  @media screen and (max-width: 991px) {
     .social-media {
         padding-top: 1rem;
+        margin-right: -40px;
     }
  }
