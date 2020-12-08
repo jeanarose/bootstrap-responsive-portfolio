@@ -48,6 +48,10 @@ p {
     display: inherit;
 }
 
+#navbarNav {
+    text-align: right;
+}
+
 /* .social-media {
     margin-right: -5px;
 } */
