@@ -60,7 +60,7 @@ Use the social media links in the top right corner to view Jeana Rose's LinkedIn
 
 MIT License
 
-Copyright (c) [2020] [Jeana Rose Mathis]
+Copyright (c) 2020 Jeana Rose Mathis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
