@@ -104,7 +104,7 @@ p {
     height: 350px;
     width: 350px;
     object-fit: cover;
-    border: solid #4AAAA5 3px;
+    border: solid rgb(102,102,102) 3px;
     border-radius: 5px;
 }
 
