@@ -14,7 +14,7 @@ h1, .navbar-brand {
 }
 
 h1 {
-    color: #4AAAA5;
+    color: #59719F;
 }
 
 /* Paragraphs */
@@ -34,14 +34,6 @@ p {
     font-size: 25px;
     letter-spacing: 1px;
 }
-
-/* .navbar-light .navbar-brand {
-    color: #FFFFFF;
-}
-
-.navbar-light .navbar-brand:hover{
-    color: #FFFFFF;
-} */
 
 .navbar-nav {
     display: inherit;
@@ -80,7 +72,7 @@ p {
 /* Submit Button */
 
 .btn {
-    background-color: #4AAAA5;
+    background-color: #59719F;
     color: white;
     border-radius: 0;
     padding: 20px 40px;
@@ -111,7 +103,7 @@ p {
 
 .page-footer {
     background-color: rgb(102,102,102);
-    border-top: solid #4AAAA5 6px;
+    border-top: solid #59719F 6px;
     position: fixed;
     left: 0;
     bottom: 0;
