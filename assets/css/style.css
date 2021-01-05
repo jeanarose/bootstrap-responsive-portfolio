@@ -16,13 +16,13 @@ h1,
 }
 
 h1 {
-  color: #ffddd2;
+  color: white;
 }
 
 /* Paragraphs */
 
 p {
-  color: #ffddd2;
+  color: white;
   padding-bottom: 40px;
 }
 
@@ -36,7 +36,7 @@ hr {
 .navbar-brand,
 .nav-link {
   background-color: #006d77;
-  color: #ffddd2;
+  color: white;
 }
 
 .navbar-brand,
@@ -126,7 +126,7 @@ label {
 }
 
 a {
-  color: #ffddd2;
+  color: white;
 }
 
 a:hover {
