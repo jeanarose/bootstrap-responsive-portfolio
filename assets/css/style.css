@@ -9,7 +9,7 @@ body {
 /* Headers */
 
 h1, .navbar-brand {
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold;
 }
 
@@ -31,18 +31,17 @@ p {
 }
 
 .navbar-brand {
-    background-color: #4AAAA5;
     font-size: 25px;
     letter-spacing: 1px;
 }
 
-.navbar-light .navbar-brand {
+/* .navbar-light .navbar-brand {
     color: #FFFFFF;
 }
 
 .navbar-light .navbar-brand:hover{
     color: #FFFFFF;
-}
+} */
 
 .navbar-nav {
     display: inherit;
