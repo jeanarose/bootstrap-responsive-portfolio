@@ -2,9 +2,7 @@
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #ffddd2;
-  /* background-image: url("../images/background-image.png");
-    background-size: repeat; */
+  background-color: #faf9f9;
 }
 
 /* Headers */
@@ -16,18 +14,11 @@ h1,
 }
 
 h1 {
-  color: white;
-}
-
-/* Paragraphs */
-
-p {
-  color: white;
-  padding-bottom: 40px;
+  color: #faf9f9;
 }
 
 hr {
-  border-top: 1px solid #ffddd2;
+  border-top: 1px solid #faf9f9;
 }
 
 /* Navbar */
@@ -35,8 +26,8 @@ hr {
 .navbar,
 .navbar-brand,
 .nav-link {
-  background-color: #006d77;
-  color: white;
+  background-color: #555b6e;
+  color: #faf9f9;
 }
 
 .navbar-brand,
@@ -70,11 +61,9 @@ hr {
 /* Main Content */
 
 .main-content {
-  background: #e29578;
+  background: #89b0ae;
   padding: 30px;
   margin-bottom: 100px;
-  margin-left: 15px;
-  margin-right: 15px;
 }
 
 /* About Me Image */
@@ -88,7 +77,7 @@ hr {
 
 .btn {
   background-color: #006d77;
-  color: #e29578;
+  color: #faf9f9;
   border-radius: 0;
   padding: 20px 40px;
 }
@@ -96,7 +85,7 @@ hr {
 /* Form */
 
 label {
-  color: #ffddd2;
+  color: #faf9f9;
 }
 
 .form {
@@ -115,6 +104,29 @@ label {
   object-fit: cover;
   border: solid rgb(102, 102, 102) 3px;
   border-radius: 5px;
+  margin-bottom: 40px;
+}
+
+.github-btn, .app-btn {
+  color: white;
+	background-color: #555b6ee2 !important;
+  position: absolute;
+  top: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	font-size: 16px;
+	padding: 12px 24px;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.github-btn {
+	left: 35%;
+}
+
+.app-btn {
+	left: 65%;
 }
 
 .portfolio-image-links {
@@ -126,18 +138,18 @@ label {
 }
 
 a {
-  color: white;
+  color: #faf9f9;
 }
 
 a:hover {
-  color: #bf6243;
+  color: #959AA5;
 }
 
 /* Footer */
 
 .page-footer {
-  background-color: #e29578;
-  border-top: solid #83c5be 6px;
+  background-color: #89b0ae;
+  border-top: solid #959AA5 6px;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -146,7 +158,7 @@ a:hover {
 }
 
 .footer-copyright {
-  color: #ffddd2;
+  color: #faf9f9;
 }
 
 /* 
