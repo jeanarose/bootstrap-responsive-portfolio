@@ -109,7 +109,7 @@ label {
 
 .github-btn, .app-btn {
   color: white;
-	background-color: #555b6ee2 !important;
+	background-color: #555b6ee2;
   position: absolute;
   top: 50%;
 	transform: translate(-50%, -50%);
@@ -119,6 +119,11 @@ label {
 	border: none;
 	cursor: pointer;
 	border-radius: 5px;
+}
+
+.github-btn:hover, .app-btn:hover{
+  color: white;
+	background-color: #373b48e2;
 }
 
 .github-btn {
