@@ -108,6 +108,7 @@ label {
 }
 
 .github-btn, .app-btn {
+  font-size: 20px !important;
   color: white;
 	background-color: #555b6ee2;
   position: absolute;
