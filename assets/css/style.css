@@ -15,13 +15,12 @@ html {
 
 /* Navbar */
 
-.navbar {
+.navbar, #navbarBasicExample {
   background-color: #6d6875;
 }
 
 .navbar-brand{
   font-family: "Playfair Display", serif;
-  font-weight: 700;
 }
 
 .navbar-link:hover,
