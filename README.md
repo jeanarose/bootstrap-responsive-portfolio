@@ -2,7 +2,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/jeanarose/my-portfolio)](https://github.com/jeanarose/my-portfolio/issues)
 
 ## Description 
-[My Portfolio](https://jeanarose.github.io/my-portfolio/) is a webpage introducing the user to Jeana Rose Mathis and showcasing her software development work. My Portfolio was designed to be a responsive webpage using primarily Bootstrap. Several components were used to make this webpage responsive and follow best coding practices such as:
+[My Portfolio](https://jeanarose.github.io/my-portfolio/) is a webpage that showcases my software development work. My Portfolio was designed to be a responsive webpage using primarily Bootstrap. Several components were used to make this webpage responsive and follow best coding practices such as:
 - Use of the Bootstrap grid system to optimize responsiveness, specifically a collapsible navigation bar and defined breakpoints for best visuals at each screen size
 - A consistent navigation bar across all webpages 
 - Semantic HTML elements
@@ -43,9 +43,7 @@ My Portfolio can be used to view Jeana Rose's work by clicking on each image tha
 
 ![Screenshot of portfolio page with images that showcase Jeana Rose's work.](./assets/images/README/portfolio.png)
 
-Use the social media links in the top right corner to view Jeana Rose's LinkedIn, GitHub, and Codepen profiles.
-
-![Screenshot of social media links on webpage.](./assets/images/README/social-media.png)
+Use the social media links in the navbar to view my LinkedIn, GitHub, and Codepen profiles.
 
 
 ## Credits
