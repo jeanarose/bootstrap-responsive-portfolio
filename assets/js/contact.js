@@ -1,5 +1,3 @@
-
-
 $(".submit-btn").on("click", function (event) {
   event.preventDefault();
   const userEmail = "jeanarose.mathis.dev@gmail.com";
