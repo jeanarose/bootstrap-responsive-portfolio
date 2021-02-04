@@ -81,9 +81,9 @@ a.navbar-item:hover {
 
 /* About Me Image */
 
-.about-me-img {
-  padding-right: 20px;
-  padding-bottom: 10px;
+.profile-picture {
+  height: 350px;
+  border-radius: 50%;
 }
 
 /* Submit Button */
