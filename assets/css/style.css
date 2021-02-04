@@ -79,11 +79,15 @@ a.navbar-item:hover {
   margin-bottom: 100px;
 }
 
+hr {
+  border: solid 1px rgb(235, 235, 235)  ;
+}
+
 /* About Me Image */
 
 .profile-picture {
-  height: 350px;
-  border-radius: 50%;
+  /* height: 350px; */
+  border-radius: 1%;
 }
 
 /* Submit Button */
